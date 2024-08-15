@@ -3,7 +3,7 @@
     ***
     ****
 */
-public class a{
+public class 1{
     public static void  pattern(int n)
     {
         for(int i=1;i<=n;i++)   
@@ -16,7 +16,7 @@ public class a{
     }
     }
     public static void main(String args[]){
-        pattern(5);
+        pattern(4);
     }
 }
 
