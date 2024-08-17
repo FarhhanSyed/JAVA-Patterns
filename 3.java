@@ -9,10 +9,9 @@
     **
     *
  */
-public class h {
-    public static void main(String args[])
+public class 3{
+    public static void pattern(int n)
     {
-        int n=5;
         for(int i=1;i<=2*n;i++)
         {
             int c=(i>n)?(2*n-i):i;
@@ -23,4 +22,7 @@ public class h {
             System.out.println();
         }
     }
+public static void main(String args[])
+   {
+      pattern(4);
 }
