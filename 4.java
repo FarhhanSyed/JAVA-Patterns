@@ -4,7 +4,7 @@
     *   *
     *****
  */
-public class i {
+public class 4{
     public static void hollow_rectangle(int row,int col)
     {
         for(int i=1;i<=row;i++)
