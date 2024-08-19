@@ -8,8 +8,8 @@
       ***
        *
  */
-public class diamond {
-    public static void pattern(int n)
+public class 5 {
+    public static void diamond(int n)
     {
         //first-half
         for(int i=1;i<=n;i++)
@@ -43,6 +43,6 @@ public class diamond {
         }
     }
     public static void main(String[] args) {
-        pattern(4);
+        diamond(4);
     }
 }
