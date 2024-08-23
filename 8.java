@@ -5,7 +5,7 @@
      4 4 4 4
     5 5 5 5 5
  */
-public class l {
+public class 8 {
     public static void pattern(int n) {
         for (int i = 1; i <= n; i++) {
             // spaces-(n-i)
