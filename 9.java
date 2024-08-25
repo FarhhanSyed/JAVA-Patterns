@@ -5,7 +5,7 @@
      *****
     *****
  */
-public class solid_rhombus {
+public class 9 {
     public static void rhombus(int n)
     {
         for(int i=1;i<=n;i++)
